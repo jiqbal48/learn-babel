@@ -16,3 +16,6 @@ function f() {
 }
 
 f()
+// some commands to run
+// npx babel preTwo.js --presets=@babel/preset-react,@babel/preset-env
+
