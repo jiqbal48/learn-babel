@@ -1,0 +1,25 @@
+{
+  "name": "learn-babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiqbal48/learn-babel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiqbal48/learn-babel/issues"
+  },
+  "homepage": "https://github.com/jiqbal48/learn-babel#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.5",
+    "@babel/plugin-transform-block-scoping": "^7.7.4"
+  },
+  "dependencies": {}
+}
