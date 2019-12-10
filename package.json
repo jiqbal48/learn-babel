@@ -4,7 +4,8 @@
   "description": "",
   "main": "one.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "get-ze-git-version": "node ./shelljs/hello.js"
   },
   "repository": {
     "type": "git",
@@ -21,7 +22,8 @@
     "@babel/core": "^7.7.5",
     "@babel/plugin-transform-block-scoping": "^7.7.4",
     "@babel/preset-env": "^7.7.6",
-    "@babel/preset-react": "^7.7.4"
+    "@babel/preset-react": "^7.7.4",
+    "shelljs": "^0.8.3"
   },
   "dependencies": {
     "cowsay": "^1.4.0",
